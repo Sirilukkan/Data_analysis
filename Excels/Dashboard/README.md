@@ -7,4 +7,4 @@
 **This image shows how my dashboard look**
 ![image](https://github.com/Sirilukkan/Data_analysis/assets/102700655/04054def-c7aa-48e6-b293-a089a75425a1)
 
-**What I have learn**: Excel is a powerful tool. It can do so many things that many people might have overlook. 
+**What I have learn**: Excel is a powerful tool capable of performing numerous functions, often overlooked by many. 
